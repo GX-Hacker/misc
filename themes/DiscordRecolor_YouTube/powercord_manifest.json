@@ -1,0 +1,8 @@
+{
+    "name": "DiscordRecolor (YouTube by GX Hacker Unofficial)",
+    "description": "YouTube in Discord which has both light and dark themes!",
+    "version": "1.0.1",
+    "author": "DevilBro#4401",
+    "theme": "DiscordRecolor_YouTube.theme.css",
+    "license": "unknown"
+}
