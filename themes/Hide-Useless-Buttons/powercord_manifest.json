@@ -1,0 +1,8 @@
+{
+    "name": "Hide Useless Buttons",
+    "description": "Hides some things that are considered as "useless".",
+    "version": "0.1.1",
+    "author": "GX Hacker Unofficial",
+    "theme": "Hide-Useless-Buttons.theme.css",
+    "license": "unknown"
+}
